@@ -9,4 +9,5 @@ int main()
     sum=sum+1;
   }
   printf("sum of %d is %d",n,sum);
+ return 0;
 }
